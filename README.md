@@ -6,4 +6,3 @@
 
 - DLL Injector
 - DLL Internal Crack
-- DLL External Crack
